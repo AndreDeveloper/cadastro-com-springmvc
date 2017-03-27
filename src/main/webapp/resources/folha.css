@@ -1,0 +1,32 @@
+@CHARSET "utf-8";
+.form-control{
+	margin-bottom: 10px;
+}
+.jumbotron{
+	margin-top: 10px;
+	background-color: #C5CAE9;
+	color: #1A237E;
+}
+.bg-1 { 
+    background-color: #1976d2;
+    color: #ffffff;
+}
+.bg-2 { 
+    background-color: #474e5d;
+    color: #ffffff;
+}
+.bg-3 { 
+    background-color: #ffffff;
+    color: #555555;
+}
+.form-cadastro{
+	margin-top: 1%;
+	margin-left: 1%;
+	margin-right: 1%;
+}
+.alert{
+	margin-top: 1.3%;
+	margin-left: 1.3%;
+	margin-right: 1.3%;	
+}
+

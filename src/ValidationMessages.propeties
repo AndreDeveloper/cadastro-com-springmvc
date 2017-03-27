@@ -1,0 +1,3 @@
+aluno.formulario.matricula=A matricula de ter 5 caracteres sendo todos numericos.
+aluno.formulario.rg=O RG deve obedecer o formato xx.xxx.xxx-3
+aluno.formulario.cpf=O cpf deve obedecer o formato xxx.xxx.xxx-41

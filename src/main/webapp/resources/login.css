@@ -1,0 +1,41 @@
+@CHARSET "utf-8";
+.form-control{
+	margin-bottom: 10px;
+}
+.input-group{
+	margin-bottom: 10px;
+}
+.jumbotron{
+	margin-top: 10px;
+	background-color: #C5CAE9;
+	color: #1A237E;
+}
+.bg-1 { 
+    background-color: #1976d2;
+    color: #ffffff;
+}
+.bg-2 { 
+    background-color: #474e5d;
+    color: #ffffff;
+}
+.bg-3 { 
+    background-color: #ffffff;
+    color: #555555;
+}
+.bg-4 {
+	margin-top: 2%;
+	background-color: #E3F2FD;
+	margin-left: 20%;
+	margin-right: 20%;
+	elevation: 10%;
+}
+.bg-5 {
+	background-color: #EEEEEE;
+}
+body {
+    background-image: url("login.jpg");
+}
+.alert-danger{
+	margin-left: 2%;
+	margin-right: 2%;
+}
